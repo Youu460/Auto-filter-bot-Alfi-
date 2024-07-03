@@ -1,6 +1,6 @@
 import os
 class script(object):
-    START_TXT =  """<b> Hey, {} {} 👋👋,
+    START_TXT =  """<b> Hey, {} {} 🍿👋,
     
 <blockquote>ɪᴍ ᴛʜᴇ ᴍᴏsᴛ ᴀᴅᴠᴀɴᴄᴇ ᴀɪ ᴘᴏᴡᴇʀᴅ 🤖 ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ..
 sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀɴᴅ sᴇᴇ ᴍʏ ᴍᴀɢɪᴄ..✨</blockquote>
@@ -26,7 +26,7 @@ sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀɴᴅ 
 ᴛᴏ ᴄʜᴇᴄᴋ ɪғ ғsᴜʙ ɪs ᴄᴏɴɴᴇᴄᴛᴇᴅ ᴏʀ ɴᴏᴛ, ᴜsᴇ <code>/show_fsub</code></b>"""
     ADMIN_CMD_TXT = """<b>- /m_grp this command is used to set grp link of movies and pm grp
 - /stream this command is used to set stream link For bot
-- /premium this command is used to add premium
+- /premium this command is used to add premium👑
 - /remove_premium this command is used to remove premium
 - /del_stream this command is used to delete stream link
 - /invite this command is used to get invite link for chat
