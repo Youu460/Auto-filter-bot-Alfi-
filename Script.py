@@ -5,8 +5,8 @@ class script(object):
 <blockquote>ɪᴍ ᴛʜᴇ ᴍᴏsᴛ ᴀᴅᴠᴀɴᴄᴇ ᴀɪ ᴘᴏᴡᴇʀᴅ 🤖 ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ..
 sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀɴᴅ sᴇᴇ ᴍʏ ᴍᴀɢɪᴄ..✨</blockquote>
 <blockquote>ғᴏʀ ᴍᴏʀᴇ ᴅᴇᴛᴀɪʟs ᴜsᴇ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ʙᴇʟᴏᴡ 🤞🏻</blockquote>
-                                    <b>MC Group</b>
-ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='t.me/MC_Adminser_bot'>ᵐʳ𝐔𝐧𝐤𝐧𝐨𝐰𝐧🎭</a>
+                                    <b>cienma universe</b>
+ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='t.me/Leomc_bot'>leo 〽️</a>
 </b>"""
     
     HELP_TXT = """<b>ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..</b>"""
@@ -40,8 +40,8 @@ sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀɴᴅ 
 ⚙️ ᴄʜɪʟʟɪɴɢ ᴏɴ : <a href="https://www.heroku.com/">ʜᴇʀᴏᴋᴜ</a>
 🍿 ʙʀᴀɪɴ ғᴜᴇʟᴇᴅ : <a href="https://www.mongodb.com/">ᴍᴏɴɢᴏ ᴅʙ</a>
 🐍 ᴄᴏᴅɪɴɢ ᴍᴜsᴄʟᴇs : <a href="https://www.python.org/">ᴘʏᴛʜᴏɴ 3</a>
-🙏🏻 ᴍʏ ᴄʀᴇᴀᴛᴏʀ : ᵐʳ𝐔𝐧𝐤𝐧𝐨𝐰𝐧🎭
-🤡 ᴍʏ ᴍᴀɴᴀɢᴇʀ : <a href="t.me/MC_Adminser_bot">ᵐʳ𝐔𝐧𝐤𝐧𝐨𝐰𝐧🎭</a>
+🙏🏻 ᴍʏ ᴄʀᴇᴀᴛᴏʀ : leo 〽️
+🤡 ᴍʏ ᴍᴀɴᴀɢᴇʀ : <a href="t.me/Leomc_bot">leo 〽️</a>
 </b>"""
     SUPPORT_GRP_MOVIE_TEXT = '''<b>ʜᴇʏ {}
 
@@ -103,7 +103,7 @@ User - {}"""
 ❗️ ʟᴀɴɢᴜᴀɢᴇ - {languages}</b>
 """
 
-    FILE_CAPTION = """<a href='https://t.me/elsa_support'><b>ɴᴀᴍᴇ🎈 : {file_name}</b></a>"""
+    FILE_CAPTION = """<a href='https://t.me/botmaking8671'><b>ɴᴀᴍᴇ🎈 : {file_name}</b></a>"""
 
     RESTART_TXT = """<b>
 📅 Dᴀᴛᴇ : <code>{}</code>
